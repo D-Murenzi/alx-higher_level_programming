@@ -7,7 +7,6 @@ if number < 0:
     c = -int(c)
 else:
     c = int(c)
-    
 if c > 5:
     print(f"Last digit of {number} is {c} and is greater than 5")
 elif c == 0:
