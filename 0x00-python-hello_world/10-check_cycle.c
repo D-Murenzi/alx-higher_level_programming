@@ -1,5 +1,6 @@
 /* this program checks if a list have a circle in it*/
 #include <stdio.h>
+#include "lists.h"
 
 /**
  * check_cycle-function to check for cycle in linked list
