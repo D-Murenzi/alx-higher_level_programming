@@ -1,3 +1,4 @@
+#!/usr/bin/python3
 """This module defines a class square with private attribute.
 
 the attribute can be instantialized but under conditions.
