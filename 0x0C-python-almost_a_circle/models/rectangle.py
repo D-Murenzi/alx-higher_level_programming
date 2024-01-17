@@ -3,7 +3,7 @@
 This module contains a rectangle with its attributes.
 """
 
-
+from base import Base
 class rectangle(Base):
     """
     the class rectangle conatins a rectangle, four sided polygon with
